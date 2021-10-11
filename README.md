@@ -1,2 +1,2 @@
-### jogo genius
+### JOGO GENIUS
 ## desafio digital innovation one 
